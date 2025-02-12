@@ -1,0 +1,11 @@
+C:/Users/Lenovo/Desktop/Metropolia/Embedded25/Cpp/Code/cmake-build-debug/CMakeFiles/Test1.dir
+C:/Users/Lenovo/Desktop/Metropolia/Embedded25/Cpp/Code/cmake-build-debug/CMakeFiles/Lab1.1.dir
+C:/Users/Lenovo/Desktop/Metropolia/Embedded25/Cpp/Code/cmake-build-debug/CMakeFiles/Lab1.2.dir
+C:/Users/Lenovo/Desktop/Metropolia/Embedded25/Cpp/Code/cmake-build-debug/CMakeFiles/Lab2.1.dir
+C:/Users/Lenovo/Desktop/Metropolia/Embedded25/Cpp/Code/cmake-build-debug/CMakeFiles/Lab2.2.dir
+C:/Users/Lenovo/Desktop/Metropolia/Embedded25/Cpp/Code/cmake-build-debug/CMakeFiles/Lab3.1.dir
+C:/Users/Lenovo/Desktop/Metropolia/Embedded25/Cpp/Code/cmake-build-debug/CMakeFiles/Lab3.2.dir
+C:/Users/Lenovo/Desktop/Metropolia/Embedded25/Cpp/Code/cmake-build-debug/CMakeFiles/Lab4.dir
+C:/Users/Lenovo/Desktop/Metropolia/Embedded25/Cpp/Code/cmake-build-debug/CMakeFiles/Lab6.dir
+C:/Users/Lenovo/Desktop/Metropolia/Embedded25/Cpp/Code/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Lenovo/Desktop/Metropolia/Embedded25/Cpp/Code/cmake-build-debug/CMakeFiles/rebuild_cache.dir

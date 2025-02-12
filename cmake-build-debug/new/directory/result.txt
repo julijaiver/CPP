@@ -1,0 +1,4 @@
+"C:\\Users\\Lenovo\\Desktop\\Metropolia\\Embedded25\\Cpp\\Code\\cmake-build-debug\\new\\directory\\result.txt"
+new
+directory
+"new\\directory\\result.txt"

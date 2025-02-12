@@ -1,0 +1,5 @@
+{ "Name":"Diced chicken", "Weight":350, "Price":5.30, "Count": 1 }
+{ "Name":"Cheese sticks", "Weight":150, "Price":2.90, "Count": 5 }
+{ "Name":"Tomato paste", "Weight":90, "Price":1.20, "Count": 3 }
+{ "Name":"Pizza", "Weight":270, "Price":3.8, "Count": 2 }
+{ "Name":"Steak", "Weight":110, "Price":8.99, "Count": 6 }

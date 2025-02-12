@@ -1,0 +1,132 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.29"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Code",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Lab1.1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Lab1.1-Debug-a9757f8342cf4dde9d12.json",
+					"name" : "Lab1.1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Lab1.2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Lab1.2-Debug-f446467a5b5d3cb2d7d2.json",
+					"name" : "Lab1.2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Lab2.1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Lab2.1-Debug-f31994eb15cb11252e8a.json",
+					"name" : "Lab2.1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Lab2.2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Lab2.2-Debug-db93a36a94fc951b429f.json",
+					"name" : "Lab2.2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Lab3.1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Lab3.1-Debug-46e8eb93b202f06eb9ba.json",
+					"name" : "Lab3.1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Lab3.2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Lab3.2-Debug-c29998485e771499b87b.json",
+					"name" : "Lab3.2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Lab4::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Lab4-Debug-4389f5b7c7eb56444dd5.json",
+					"name" : "Lab4",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Lab6::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Lab6-Debug-c259cd4f73ce21e670a9.json",
+					"name" : "Lab6",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Test1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Test1-Debug-4fc5cea77d9fdd782b7c.json",
+					"name" : "Test1",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/Lenovo/Desktop/Metropolia/Embedded25/Cpp/Code/cmake-build-debug",
+		"source" : "C:/Users/Lenovo/Desktop/Metropolia/Embedded25/Cpp/Code"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

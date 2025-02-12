@@ -1,0 +1,7 @@
+"C:\\Users\\Lenovo\\Desktop\\Metropolia\\Embedded25\\Cpp\\Code\\cmake-build-debug\\this\\is\\a\\file\\test\\result.txt"
+this
+is
+a
+file
+test
+"this\\is\\a\\file\\test\\result.txt"
