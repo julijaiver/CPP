@@ -38,5 +38,10 @@ add_executable(Lab6
         Assignments/Lab6/house.h
         Assignments/Lab6/apartment.cpp
         Assignments/Lab6/apartment.h
-
+)
+add_executable(Lab7
+        Assignments/Lab7.cpp
+)
+add_executable(Lab8
+        Assignments/Lab8.cpp
 )

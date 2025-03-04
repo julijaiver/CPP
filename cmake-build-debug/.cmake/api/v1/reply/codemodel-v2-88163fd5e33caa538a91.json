@@ -23,7 +23,9 @@
 						5,
 						6,
 						7,
-						8
+						8,
+						9,
+						10
 					]
 				}
 			],
@@ -46,7 +48,9 @@
 						5,
 						6,
 						7,
-						8
+						8,
+						9,
+						10
 					]
 				}
 			],
@@ -106,6 +110,20 @@
 					"id" : "Lab6::@6890427a1f51a3e7e1df",
 					"jsonFile" : "target-Lab6-Debug-c259cd4f73ce21e670a9.json",
 					"name" : "Lab6",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Lab7::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Lab7-Debug-5c9ac150df47a1a3df00.json",
+					"name" : "Lab7",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Lab8::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Lab8-Debug-9dc89dfe854b8575f6ff.json",
+					"name" : "Lab8",
 					"projectIndex" : 0
 				},
 				{
